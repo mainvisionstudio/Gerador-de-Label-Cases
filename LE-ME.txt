@@ -36,3 +36,6 @@ Fonte Estrada Regular aplicada aos campos preenchidos e incorporada no PDF.
 Departamento alinhado com a linha de base de Department.
 Conteúdo reduz automaticamente conforme o número e comprimento das linhas, até 6 pt. Se exceder o espaço disponível, a página pede para reduzir o conteúdo em vez de o cortar. O tamanho é aplicado ao clicar em Gerar PDF.
 Testados PDFs com 3 e 7 elementos, acentos e quantidades.
+
+CONTEÚDO EM DUAS COLUNAS
+Listas maiores continuam na coluna da direita, mantendo a ordem de cima para baixo. A fonte ajusta-se entre 12 e 6 pt. Cada elemento fica inteiro na sua coluna, incluindo descrições que ocupam várias linhas. A capacidade depende do comprimento das descrições. Testados 12 e 14 elementos curtos sem cortes.
