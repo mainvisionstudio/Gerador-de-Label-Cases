@@ -22,3 +22,11 @@ Geração de PDF e alinhamento de texto verificados com dados de exemplo e acent
 Interface ainda não testada num navegador real nesta sessão.
 
 Dependências: pdf-lib 1.17.1 (MIT), @pdf-lib/fontkit 1.1.1 (MIT), DejaVu Sans (licença Bitstream/DejaVu).
+
+ATUALIZAÇÃO 09/11/2026
+Logótipo no canto superior direito e favicon Mainvision.
+Conteúdo com quantidade e descrição por linha; botão + Adicionar elemento e remoção individual.
+Linhas sem descrição são ignoradas. O espaço do PDF continua limitado ao modelo original.
+
+ATUALIZAR O SITE EXISTENTE
+Extrai o ZIP. No mesmo repositório, carrega todo o conteúdo extraído, incluindo assets e vendor, substituindo os ficheiros com o mesmo nome. Confirma as alterações. Não é necessário criar outro repositório nem voltar a configurar Pages.
