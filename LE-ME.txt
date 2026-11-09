@@ -1,0 +1,24 @@
+MAINVISION — Etiquetas de cases
+
+TESTAR
+Abre index.html no navegador. Preenche os campos e clica em Gerar PDF.
+O PDF original está incorporado; não é necessário um servidor para testar.
+
+GITHUB
+Cria um novo repositório e carrega todo o conteúdo desta pasta, preservando a pasta vendor. O index.html deve ficar na raiz.
+Ativa GitHub Pages para a branch que contém os ficheiros, usando a pasta raiz.
+Partilha o endereço que o GitHub Pages apresentar depois da publicação.
+
+FUNCIONAMENTO
+Equipamento é obrigatório. Os restantes campos são opcionais.
+A fotografia aceita JPG/PNG até 10 MB.
+O PDF gerado é estático, pronto a imprimir. Os dados não são enviados para um servidor.
+O texto reduz de tamanho até 7 pt; se não couber, surge um erro em vez de ser cortado.
+Gera novamente depois de alterar dados. Não existe gravação de dados entre sessões.
+Imprime a 100% / tamanho real (170 x 130 mm aproximadamente).
+
+VALIDAÇÃO
+Geração de PDF e alinhamento de texto verificados com dados de exemplo e acentos portugueses.
+Interface ainda não testada num navegador real nesta sessão.
+
+Dependências: pdf-lib 1.17.1 (MIT), @pdf-lib/fontkit 1.1.1 (MIT), DejaVu Sans (licença Bitstream/DejaVu).
