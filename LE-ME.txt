@@ -39,3 +39,6 @@ Testados PDFs com 3 e 7 elementos, acentos e quantidades.
 
 CONTEÚDO EM DUAS COLUNAS
 Listas maiores continuam na coluna da direita, mantendo a ordem de cima para baixo. A fonte ajusta-se entre 12 e 6 pt. Cada elemento fica inteiro na sua coluna, incluindo descrições que ocupam várias linhas. A capacidade depende do comprimento das descrições. Testados 12 e 14 elementos curtos sem cortes.
+
+DUAS COLUNAS OPCIONAIS — SUBSTITUI O COMPORTAMENTO AUTOMÁTICO ANTERIOR
+Por defeito existe uma coluna. Ativa «Usar duas colunas» para preencher separadamente a coluna esquerda e a direita, cada uma com botão +. Os elementos ficam na coluna escolhida. Ao desativar, os elementos da direita passam para o fim da lista da esquerda, sem perda de dados. O tamanho da fonte continua a ajustar-se, mas não há distribuição automática entre colunas.
